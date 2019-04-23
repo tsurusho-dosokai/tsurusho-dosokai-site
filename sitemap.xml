@@ -9,17 +9,23 @@
 
 <url>
   <loc>https://www.tsurusho-dosokai.com/</loc>
-  <lastmod>2019-02-02T00:32:40+00:00</lastmod>
+  <lastmod>2019-04-23T08:58:00+09:00</lastmod>
+  <changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.tsurusho-dosokai.com/officer.html</loc>
-  <lastmod>2019-02-02T00:32:33+00:00</lastmod>
+  <lastmod>2019-04-23T08:56:00+09:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.tsurusho-dosokai.com/constitution.html</loc>
-  <lastmod>2019-02-02T00:32:33+00:00</lastmod>
+  <lastmod>2019-04-23T08:58:00+09:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.tsurusho-dosokai.com/privacy.html</loc>
+  <lastmod>2019-04-23T08:55:00+09:00</lastmod>
   <priority>0.80</priority>
 </url>
 
